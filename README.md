@@ -36,11 +36,11 @@ To accomplish this problem, we did the following:
     - We also used classification modeling, attempting to predict if a tweet would have a positive, neutral or negative sentiment score, using accuracy as our metric.
     - 
 ## Data Sources:
-[Tweet dataset from IEEE](https://ieee-dataport.org/open-access/corona-virus-covid-19-geolocation-enabled-tweets-dataset)
-[New York Times Information on COVID-19 Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
-[Mobility Data from Apple](https://www.apple.com/covid19/mobility)
-[Information on US Cities](https://simplemaps.com/data/us-citiesResources)
-[2019 Census Population](https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/)
+[Tweet dataset from IEEE](https://ieee-dataport.org/open-access/corona-virus-covid-19-geolocation-enabled-tweets-dataset)  
+[New York Times Information on COVID-19 Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)  
+[Mobility Data from Apple](https://www.apple.com/covid19/mobility)  
+[Information on US Cities](https://simplemaps.com/data/us-citiesResources)  
+[2019 Census Population](https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/)  
 
 ### Data Dictionary 
 |**Feature Name**|**Description**|
