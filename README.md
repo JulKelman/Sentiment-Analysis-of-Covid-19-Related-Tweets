@@ -90,8 +90,8 @@ Moving forward, to expand upon our analysis and build a better predictive model,
 
 ## References
 
-[Twitter Users Political Affiliation](https://www.pewresearch.org/internet/2019/04/24/sizing-up-twitter-users/pdl_04-24-19_twitter_users-00-03/)  
-[Twitter Users Age, Education, Wealth](https://www.pewresearch.org/internet/2019/04/24/sizing-up-twitter-users/pdl_04-24-19_twitter_users-00-04/)  
-[May 6th NYS Deaths](https://www.nbcnewyork.com/news/coronavirus/subway-shutdown-begins-infection-rates-spike-outside-new-york-amid-devastating-toll-at-home/2404295/)
-[Stay at Home Order Information](https://abcnews.go.com/US/list-states-stay-home-order-lifts/story?id=70317035)
-[Twitterscraper library used to retrieve tweets](https://github.com/taspinar/twitterscraper)
+[Twitter Users Political Affiliation](https://www.pewresearch.org/internet/2019/04/24/sizing-up-twitter-users/pdl_04-24-19_twitter_users-00-03/)    
+[Twitter Users Age, Education, Wealth](https://www.pewresearch.org/internet/2019/04/24/sizing-up-twitter-users/pdl_04-24-19_twitter_users-00-04/)    
+[May 6th NYS Deaths](https://www.nbcnewyork.com/news/coronavirus/subway-shutdown-begins-infection-rates-spike-outside-new-york-amid-devastating-toll-at-home/2404295/)  
+[Stay at Home Order Information](https://abcnews.go.com/US/list-states-stay-home-order-lifts/story?id=70317035)  
+[Twitterscraper library used to retrieve tweets](https://github.com/taspinar/twitterscraper)  
